@@ -35,7 +35,7 @@ I work across the **full AI stack**, not a single slice:
 - **[Comprehensive Time-Series Forecasting](https://github.com/Usman1Abbas/Comprehensive-Time-Series-Forecasting-with-XGBoost-FBProphet-LSTM-BiLSTM-and-Hybrid-Models)** — benchmark of **XGBoost vs Prophet vs LSTM vs BiLSTM vs hybrid** models.
 - **[ticket-triage](https://github.com/Usman1Abbas/ticket-triage)** — RAG-backed support-ticket triage (FastAPI · Instructor structured outputs · ChromaDB).
 - **[Custom-built-MCP](https://github.com/Usman1Abbas/Custom-built-MCP)** — a custom **Model Context Protocol** server exposing tools to LLM agents.
-- **[MLOPS-A4](https://github.com/Usman1Abbas/MLOPS-A4)** & **[flask-k8s-ci-cd](https://github.com/Usman1Abbas/flask-k8s-ci-cd-assignment)** — end-to-end **MLOps**: DVC, Jenkins, Kubernetes, CI/CD.
+- **[mlops-dvc-pipeline](https://github.com/Usman1Abbas/mlops-dvc-pipeline)** & **[flask-ml-k8s-cicd](https://github.com/Usman1Abbas/flask-ml-k8s-cicd)** — end-to-end **MLOps**: DVC, Jenkins, Kubernetes, CI/CD.
 - **[Medical-Bot](https://github.com/Usman1Abbas/Medical-Bot)** & **[Medical-CoT](https://github.com/Usman1Abbas/Medical-CoT)** — LLM medical expert system + chain-of-thought fine-tuning.
 - **[Story2Audio-Microservice](https://github.com/Usman1Abbas/Story2Audio-Microservice)** — gRPC + REST text-to-speech microservice on Docker.
 
