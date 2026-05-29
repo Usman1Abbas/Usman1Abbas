@@ -40,12 +40,12 @@ I work across the **full AI stack**, not a single slice:
 - **[Story2Audio-Microservice](https://github.com/Usman1Abbas/Story2Audio-Microservice)** — gRPC + REST text-to-speech microservice on Docker.
 
 ## 🔒 Selected client & private work
-*Code under NDA — sanitized case studies available on request.*
+*Code under NDA — sanitized case studies linked below.*
 
-- **ComptonEye** — HIPAA-aware AI medical scribe: records consultations, transcribes, and extracts structured clinical notes.
-- **Vaibrant Compass** — multi-framework **GRC assurance platform** for a consulting client (consultant workspace + branded client portal).
-- **Automotive AI Companion** — AI car diagnostics, OBD-code lookup, and repair-cost intelligence.
-- **CodeNav** *(Final Year Project)* — code-understanding platform with a knowledge graph + AI chatbot.
+- **AI Medical Scribe** — HIPAA-aware scribe: consultation → transcription → structured clinical notes. → [case study](https://github.com/Usman1Abbas/ai-medical-scribe)
+- **GRC Assurance Platform** — multi-tenant compliance platform mapping one evidence item to 6 frameworks (client anonymized). → [case study](https://github.com/Usman1Abbas/grc-assurance-platform)
+- **Automotive AI Companion** — AI car diagnostics, OBD-code lookup, and repair-cost intelligence. → [case study](https://github.com/Usman1Abbas/automotive-ai-companion)
+- **CodeNav** *(Final Year Project)* — code-understanding platform with a Neo4j knowledge graph + AI chatbot. → [case study](https://github.com/Usman1Abbas/codenav-case-study)
 
 ---
 
